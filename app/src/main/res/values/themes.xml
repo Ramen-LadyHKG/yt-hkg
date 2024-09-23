@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Ythkg" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Set background to black -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <!-- Optional: Set other attributes to match dark theme -->
+        <item name="android:colorBackground">@android:color/black</item>
+    </style>
+</resources>
